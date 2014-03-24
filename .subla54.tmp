@@ -47,21 +47,13 @@
     </div>
     <section id="feature_slider">
 
+
         <!-- Café -->
-        <article class="slide" id="showcasing" style="background:url('./img/backgrounds/mint.jpg') repeat-x top center">
-            <img src="./img/8/parceiros.png" width="800" />
-            
-            <div class="info">
-            </div>
-        </article>
-
-
-        <!-- Interbbom -->
         <article class="slide" id="showcasing" style="background:url('./img/7/background.jpg') repeat-x top center">
-            <img class="asset left-600 sp500 t100 z1" src="./img/7/interbbom.png" width="400"/>
-            <img class="asset left-600 sp600 t225 z1" src="./img/7/apps.png" width="400" />
+            <img class="asset left-600 sp600 t50 z1" src="./img/7/interbbom.png" />
+            <img class="asset left-600 sp600 t300 z1" src="./img/7/apps.png" />
  
-            <img class="asset left447 sp600 t400 z1" src="./img/7/bbom_store.png" />
+            <img class="asset left200 sp600 t200 z1" src="./img/7/bbom_store.png" />
 
             <div class="info">
             </div>

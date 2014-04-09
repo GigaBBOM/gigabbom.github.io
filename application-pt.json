@@ -1,169 +1,98 @@
 {
-	"title" :"BBOM Brasil Rastreadores | Participe da primeira equipe do Brasil, aqui nós crescemos juntos!",
-	"team_name" :"Equipe Giga BBOM",
-
-	"nav" : {
-		"initial" :"INICIAL",
-		"videos" :"VIDEOS",
-		"packages" :"PACOTES",
-		"contact" :"CONTATO",
-		"questions" :"PERGUNTAS FREQUENTES"
-		},
-
-		"slides": {
-			"responsability" : "</br></br>Lealdade </br>Responsabilidade </br>Realizações",
-			"delicious_coffe": "Que tal um delicioso café com a equipe Giga BBOM?",
-			"coffe" : "Que tal tomar um café com a equipe Giga BBOM?",
-			"slide_1" :"1º - Você financia a produção dos rastreadores.",
-			"slide_2" :"2º - A BBOM produz e coloca os rastreadores no mercado.",
-			"slide_3" :"3º - Parte dos lucros fica com a BBOM e parte com você!",
-			"slide_4" :"4º - Receba seus lucros através do cartão de crédito BBOM, ou através de uma conta bancária.",
-			"slide_5" :"5º - Faça parte da equipe mais forte do Brasil! Cadastre-se já!"
-			}, 
-
-			"first_menu" : {
-				"title_1" :"A BBOM",
-				"description_1" :"A BBOM nasceu a partir da necessidade da empresa Unepxmil alavancar a produção de aparelhos rastreadores para suprir a demanda do mercado atual que é deficiente.",
-
-				"title_2" :"Faça parte da empresa",
-				"description_2" :"100% Protegida Juridicamente pelas leis Brasileiras! Você financia os produtos, a BBOM os coloca no mercado, parte dos lucros ficam com a BBOM e parte fica com o habilitador.",
-
-				"title_3" :"Foco no produto",
-				"description_3":"Diferente de outras empresas, a BBOM foca na fabricação e logística de seus produtos, além disto o foco é no desenvolvimento de novas tecnologias voltadas a diversos mercados."
-				},
-
-				"videos" : {
-					"videos" : "Vídeos",
-
-					"video1" :"Vídeo 1",
-					"video1_description" :"Vídeo 1 descrição",
-
-					"video2" :"Vídeo 2",
-					"video2_description" :"Vídeo 2 descrição",
-
-					"video3" :"Video 3",
-					"video3_detail" :"Vídeo 3 descrição",
-
-					"video4" :"Video 4",
-					"video4_detail" :"Vídeo 4 descrição"
-					} ,
-
-					"packages" : {
-						"packages" :"Pacotes",
-
-						"bronze" :"Bronze",
-						"bronze_value" :"R$ 600",
-
-						"silver" :"Prata",
-						"silver_value" :"R$ 1800",
-
-						"gold" :"Ouro",
-						"gold_value" :"R$ 3000",
-
-						"gold" :"upgrade",
-						"gold_value" :"R$ 1200",
-
-						"more" :"Quer mais?",
-						"more_desc" :"Temos mais formas de ganho!",
-						"more_desc2" :"Confira abaixo todas as formas de você ganhar mais, ao entrar em nossa equipe!"
-						},
-
-
-						"bonus" : {
-							"bonus" :"Bonificações",
-
-							"click" :"Clique nas bolinhas pretas para ver a descrição de cada uma delas abaixo.",
-
-							"bonus_1_title" :"Comodato",
-							"bonus_1" :"Bônus de Comodato.",
-							"bonus_1_description" :"Pacote Bronze - R$80,00/mês. Pacote Prata - R$400,00/mês. Pacote Ouro - R$720,00/mês. Ao se tornar um franqueado BBOM você receberá um rastreador para instalar em seu veículo juntamente com um manual de instalação e poderá realizar o monitoramento em tempo real através da internet. Recebimento do Bônus Comodato : (Regra: dia do seu cadastro + 60 dias) – Sua primeira parcela será 2 meses depois da ativação do cadastro",
-
-							"bonus_2_title" :"Vendas</br> diretas",
-							"bonus_2" :"Bônus de Venda Direta",
-							"bonus_2_description" :"Você receberá 10% de comissão sobre o valor da mensalidade de cada produto (rastreador) vendido diretamente por você. As seguradoras de veículos concedem desconto aos segurados que possuem rastreadores instalado.",
-
-							"bonus_3_title" :"Equiparação",
-							"bonus_3" :"Bônus de Equiparação",
-							"bonus_3_description" :"Com este bônus, você receberá 2% sobre os bônus que a sua rede estiver recebendo referente aos bônus comodato (até o 6° nível).",
-
-							"bonus_4_title" :"Residual",
-							"bonus_4" :"Bônus Residual",
-							"bonus_4_description" :"Ganhe R$1,50 por cada pessoa que estiver na sua perna menor mensalmente. Este bônus é referente a 6% sobre os pontos gerados por mensalidades dos rastreadores da sua rede até o 6º Nível. Cada Mensalidade irá gerar 25 pontos, ou seja, 6% sobre 25 = R$ 1,50.",
-
-							"bonus_5_title" :"Equipe",
-							"bonus_5" :"Bônus de Ganhos de Equipe",
-							"bonus_5_description" :"Ganhe 30% do volume de pontos gerados em sua equipe menor. Ex : Seu grupo da Esquerda : 30 Pacotes Ouro (30.000pts) e seu grupo da Direita : 50 Pacotes Ouro (50.000pts). Ou Seja, esse bônus irá pagar 30% do seu menor grupo, (30% de 30.000pts) que irá da o valor de R$ 9.000,00. Esse bônus você só ganha uma vez a cada novo cadastro da sua rede.",
-
-							"bonus_6_title" :"Início rápido",
-							"bonus_6" :"Bônus de Inicio Rápido",
-							"bonus_6_description" :"Você irá ganhar um bônus por cada novo franqueado indicado diretamente por você. Bronze você ganha R$40,00 Prata você ganha R$120,00 Ouro você ganha R$200,00",
-
-							"bonus_7_title" :"Divisão</br> de</br> Lucros",
-							"bonus_7" :"Bônus de Divisão de Lucros",
-							"bonus_7_description" :"Ganhe até 2% do faturamente dos pontos globais. Com 5 Linhas de Diamantes : 1% Com 10 Linhas de Diamantes : +1%",
-
-							"career_title" :"Plano</br> de</br> Carreira",
-							"career" :"Plano de Carreira",
-							"career_description" :"Os pontos de sua perna menor acumulam conforme a formação de sua equipe, veja na tabela abaixo as premiações para quando você atingir determinada quantidade de pontos.",
-
-							"qualification_title" :"QUALIFICAÇÃO",
-							"points" :"PONTOS",
-							"premiation" :"PREMIAÇÃO",
-
-							"" :"Executivo Rubi",
-							"" :"50.000",
-							"" :"PIN (é um broche)",
-
-							"" :"Executivo Esmeralda",
-							"" :"100.000",
-							"" :"PIN + Montblanc",
-
-							"" :"Executivo Diamante",
-							"" :"500.000",
-							"" :"PIN + Relógio Rolex",
-
-							"" :"Executivo Duplo Diamante",
-							"" :"2.500.000",
-							"" :"PIN + Viagem Internacional",
-
-							"" :"Executivo Triplo Diamante",
-							"" :"7.500.000",
-							"" :"PIN + Mercedes Benz",
-
-							"" :"Embaixador",
-							"" :"50.000.000",
-							"" :"PIN + Ferrari ou Lamborghini"
-
-							}, 
-
-
-							"solidity" :"Solidez em nosso negócio!",
-
-							"company_description_1_title" :"Rastreadores promovem a segurança!",
-							"company_description_1" :"Nosso principal diferencial é ter um produto de fácil aceitação no mercado, rastreadores GPS possuem uma demanda enorme de consumidores, e esta demanda já está sendo suprida pela fabricação dos rastreadores da BBOM. Entrando neste negócio todos ganham, inclusive a sociedade por obter mais segurança com este serviço.",
-
-							"company_description_2_title" :"Acompanhamento em tempo real",
-							"company_description_2" :"Rastreadores com tecnologia de telemetria de última geração! com ele você sabe exatamente onde está a sua frota, veículos e família. Nosso produto fornece mais segurança a todos os clientes, temos linhas de rastreadores de Carros, Motos, Caminhões, Barcos, pessoas e animais.",
-
-							"company_description_3_title" :"Fale com os seus amigos",
-							"company_description_3" :"A fonte de renda da BBOM não depende da entrada de novas pessoas, nosso faturamente é baseado no aluguel dos rastreadores, e este serviço já é feito pela própria empresa. E se você quiser indicar os seus amigos para este negócio nossa empresa crescerá ainda mais, aqui todos ganham, inclusive se não chama ninguém. Nosso negócio é sólido, confiável e nós crescemos como um todo!",
-
-							"walt_disney_phrase" :"Eu gosto do impossível pois lá a concorrência é menor. Walt Disney.",
-
-							"contact" : {
-
-								"contact" :"Contato",
-
-								"first_text" : "Participe da equipe mais dinâmica do Brasil. Temos pessoas de todos as áreas para lhe auxiliar.</br></br>Nossa equipe é formada por pessoas <strong>influentes</strong>, faça um invetimento inteligente, e entre com uma das primeiras equipes do país.",
-								"email" :"contato@bbombrasil.org",
-
-								"work" :"Trabalhe conosco",
-
-								"second_text" :"Cuidado com equipes que querem apenas o seu cadastro!</br></br>Nós estamos preparados para lhe auxiliar, efetue o seu cadastro, realize o pagamento do plano desejado e nós lhe auxiliaremos para que você cresça e tenha sucesso como habilitador.",
-								"signup" :"Cadastre-se aqui",
-
-								"about" :"Somos uma equipe de habilitadores, Não somos responsáveis pela BBOM, nem pelo seus produtos."
-								},
-
-								"copyright":"© 2013 Equipe Giga BBOM. Todos os direitos reservados."
-							}
+    "title": "BBOM Brasil Rastreadores | Participe da primeira equipe do Brasil, aqui nós crescemos juntos!",
+    "team_name": "Equipe Giga BBOM",
+    "register" : "Cadastre-se",
+    "nav": {
+        "initial": "INICIAL",
+        "videos": "VIDEOS",
+        "packages": "PEDIDOS",
+        "contact": "CONTATO",
+        "questions": "PERGUNTAS FREQUENTES"
+    },
+    "slides": {
+        "responsability": "</br></br>Lealdade </br>Responsabilidade </br>Realizações",
+        "delicious_coffe": "Que tal um delicioso café com a equipe Giga BBOM?",
+        "coffe": "Que tal tomar um café com a equipe Giga BBOM?",
+        "slide_1": "1º - Você financia a produção dos rastreadores.",
+        "slide_2": "2º - A BBOM produz e coloca os rastreadores no mercado.",
+        "slide_3": "3º - Parte dos lucros fica com a BBOM e parte com você!",
+        "slide_4": "4º - Receba seus lucros através do cartão de crédito BBOM, ou através de uma conta bancária.",
+        "slide_5": "5º - Faça parte da equipe mais forte do Brasil! Cadastre-se já!",
+        "come_to_bbom" : "Pense GIGA! Venha para a BBOM!"
+    },
+    "first_menu": {
+        "title_1": "A BBOM",
+        "description_1": "O Grupo Embrasystem utiliza o canal de vendas BBOM, empresa especializada em vendas diretas que utiliza das estratégias do Marketig Multinível para a distribuição e venda dos produtos e serviços de suas parceiras.",
+        "title_2": "Faça parte da equipe Giga BBOM",
+        "description_2": "Adquira um dos três pacotes de micro franquias da empresa e torne-se um micro franqueado BBOM você também!Equipe GigaBBOM, o apoio que você precisa para alcançar o resultado que você merece! Lealdade, Responsabilidade e Realizações.",
+        "title_3": "Oportunidade de Ouro",
+        "description_3": "A BBOM mudou, e mudou para a melhor! Tornando-se uma excelente oportunidade para quem gosta de trabalhar com redes, e uma excelente oportunidade também para quem gostam de trabalhar com vendas. Adquira a sua micro franquia, monte o seu próprio negócio e escolha como quer trabalhar! #VAMOPRACIMA"
+    },
+    "videos": {
+        "videos": "Vídeos",
+        "video1": "RECOMEÇO",
+        "video1_description": "A partida vai começar! #VAMOPRACIMA",
+        "video2": "Click Autos Brasil",
+        "video2_description": "O primeiro leilão de centavos do mundo de automóveis zero quilômetros, acesse e confira! www.clickautosbrasil.com.br",
+        "video3": "Z7 FAMILY",
+        "video3_description": "Conheça alguns dos produtos da linha Z7, inovação e qualidade na medida certa pra você.",
+        "video4": "Novo Plano e Novos Produtos",
+        "video4_description": "Conheça alguns de nossos novos</br>produtos e o novo plano de</br>negócios da BBOM."
+    },
+    "packages": {
+        "packages": "PEDIDOS",
+        "bronze": "Pedido 1",
+        "bronze_value": "R$</span><span class='qty'>600</span>",
+        "silver": "Pedido 2",
+        "silver_value": "R$</span><span class='qty'>1800</span>",
+        "gold": "Upgrade",
+        "gold_value": "R$</span><span class='qty'>3000</span>",
+        "more": "Quer mais?",
+        "more_desc": "Temos mais formas de ganho!",
+        "more_desc2": "Confira abaixo todas as formas de você ganhar mais, ao entrar em nossa equipe!"
+    },
+    "bonus": {
+        "bonus": "Bonificações",
+        "click": "Clique nas bolinhas pretas para ver a descrição de cada uma delas abaixo.",
+        "bonus_1_title": "Vendas </br> diretas",
+        "bonus_1": "Bônus de Vendas Diretas.",
+        "bonus_1_description": "Com ele você pode ganhar até 100% de lucro sobre os produtos e serviços que vender. Acesse http://bbom.com.br/ e conheça alguns de nossos produtos.",
+        "bonus_2_title": "Primeiro</br>pedido",
+        "bonus_2": "Bônus de Primeiro Pedido",
+        "bonus_2_description": " Ganhe 20% dos pontos dos primeiros pedidos dos seus indicados diretos</br>EXEMPLO:</br>",
+        "bonus_3_title": "Vendas de </br> Equipe",
+        "bonus_3": "Bônus de Vendas de Equipe",
+        "bonus_3_description": "Receba até 50% dos pontos do primeiro pedido de produtos e serviços efetuados pela sua equipe.</br>Veja a porcentagem que você tem direito de acordo com o seu pedido.</br>PEDIDO 1 - 20%</br>PEDIDO 2 - 30%</br>PEDIDO 3 - 50%",
+        "bonus_4_title": "Unilevel",
+        "bonus_4": "Bônus Unilevel de Renda",
+        "bonus_4_description": "Ganhe até 7% de recompra dos pontos do (2º pedido) gerados por sua equipe até o 10º nível.</br>Franqueado:7% até o 3º Nível</br>Construtor:7% até o 4º Nível</br>Rubi:7% até o 5º Nível</br>Esmeralda:7% até o 6º Nível</br>Diamante:7% até o 7º Nível</br>Duplo Diamante:7% até o 8º Nível</br>Triplo Diamante:7% até o 9º Nível</br>Embaixador:7% até o 10º Nível</br>",
+        "bonus_5_title": "Construtor",
+        "bonus_5": "Bônus Construtor",
+        "bonus_5_description": "É um pool de 20% dos pontos de todos os primeiros pedidos e 30% dos pontos de todas as recompras da empresa.</br>Esse bônus é dividido entre todos os qualiﬁcados como Construtor no plano de compensação BBOM</br>.Para se tornar Construtor é necessário ter no mínimo 1 pacote inicial e ser ativo no binário com um direto na equipe esquerda e 1 direto na equipe direita.",
+        "qualification_title": "QUALIFICAÇÃO",
+        "points": "PONTOS",
+        "premiation": "PREMIAÇÃO",
+        "ferrari": "PIN + Ferrari ou Lamborghini",
+        "career_title": "Qualificações",
+        "career": "Plano de Carreira",
+        "career_description": "Os pontos de sua perna menor acumulam conforme a formação de sua equipe, veja na tabela abaixo as premiações para quando você atingir determinada quantidade de pontos."
+    },
+    "solidity": "Solidez em nosso negócio!",
+    "company_description_1_title": "Inter BBOM",
+    "company_description_1": " Mais de 100 milhões de internautas no Brasil que representam 56% da população. O mercado de aplicativos teve o faturamento de mais de 30 bilhões em 2013. Em 2013 o faturamento da Apple Store foi de 10 bilhões de dólares. A indústria Global de Games deve chegar a R$54 bilhões até 2015. 1 bilhão de usuários de aplicativos em 2012 devendo chegar a 4,4 bilhões até 2017 Inter BBOM, nós desenvolvemos, você ganha! Acesse:http://www.interbbom.com/",
+    "company_description_2_title": "Leilão Pré-Pago",
+    "company_description_2": "Produtos saem até 90% mais baratos em sites de leilões virtuais, que representam um crescimento do mercado eletrônico no Brasil de aproximadamente 25%.</br>Acesse:www.clickautosbrasil.com.br",
+    "company_description_3_title": "Franquia",
+    "company_description_3": "O Brasil ocupa o 4º lugar no ranking de Franquias segundo o World Franchise Council.</br>Faturamento de 117 bilhões de reais em 2013</br>A expectativa de crescimento para 2014 é de 13%.",
+    "walt_disney_phrase": "<h3>'A melhor maneira de prever o futuro é criá-lo.'</h3> <h6> - Peter Drucker.</h6>",
+    "contact": {
+        "contact": "Contato",
+        "first_text": "Participe da equipe mais dinâmica do Brasil. <a href='www.gvolive.com/conference,netconnectgroup'>Conferência online BBOM todas as Quartas às 23:00hs.</a></br></br> Ou se preferir, contatenos e agende um horário.</br></br>Apresentações todas as Segundas e Quintas às 20:00 e Treinamento todas as Quartas às 20:00hs na Av Lisboa , N85 , Jardim Augusta, São José dos Campos-SP.</br></br>(12) 9 9102-1781 - Rafael",
+        "email": "contato@bbombrasil.org",
+        "work": "Trabalhe conosco",
+        "second_text": "Cuidado com equipes que querem apenas o seu cadastro!</br></br>A Equipe Giga BBOM está aqui para te auxiliar, Adquira um dos pacotes e faça parte da equipe você também!",
+        "signup": "Cadastre-se aqui",
+        "about": "Somos uma equipe de Micro Franqueados, Não somos responsáveis pela BBOM, nem pelo seus produtos."
+    },
+    "copyright": "© 2013 Equipe Giga BBOM. Todos os direitos reservados."
+}
